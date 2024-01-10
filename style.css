@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline: 20px;
+    margin-block: 20px;
+}
+  
+h1 {
+    text-align: left;
+}
+  
+form {
+    max-width: 600px;
+    font-size: 24px;
+}
+  
+input[type="number"] {
+    border: 1px solid black;
+    font-size: 24px;
+    padding-inline: 3px;
+    padding-block: 3px;
+}
+  
+button {
+    display: block;
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+    margin: 10px 0;
+    font-size: 24px;
+    padding-inline: 8px;
+    padding-block: 8px;
+    border-radius: 4px;
+}
+  
+#container {
+    max-width: 600px;
+    margin-top: 10px;
+    font-size: 24px;
+}
